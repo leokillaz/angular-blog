@@ -7,6 +7,7 @@
       height="200px"
       srcset=""
     >
+    <p class="datePost"> {{ datePost }}</p>
   </div>
 
   <div class="big-card__title">
@@ -16,7 +17,7 @@
   <div class="big-card__description">
     <p>
       <a [routerLink]="['content', Id]">
-          {{ cardDescription }}
+        {{ cardDescription }}
       </a>
     </p>
   </div>

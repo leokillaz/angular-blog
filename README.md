@@ -1,6 +1,47 @@
+![Potencia-tech](./src/assets/img/preview.png "Potência Tech")
+
 # AngularBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+---
+
+<div class="basicInfo" align="center">
+  
+  <div class="status" align="top">
+    <table align="space-between">
+      <tr>
+        <td>Status:</td> <td>Finalizado</td>
+      </tr>
+      <tr>
+        <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/leokillaz/">leokillaz</a></td>
+      </tr>
+      <tr>
+        <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
+      </tr>
+      <tr>
+        <td>Diretórios de referência:</td>  
+        <td>
+        		<ol> 
+	        		<li>  
+	        			<a href="https://github.com/leokillaz/Bootcamp_Potencia.Tech">Bootcamp Potência Tech</a>
+	        		</li>  
+	        		<li>
+	        			<a href="https://github.com/felipeAguiarCode/angular-blog">Angular Blog - Felipe Aguiar</a> 
+	        		</li>
+        		</ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Deploy</td> <td><a href="https://leokillaz.github.io/angular-blog-leokillaz/">Angular Blog</a></td>
+      </tr>
+      <tr>
+        <td>Links úteis</td> <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web">Mozilla Developer Network (MDN)</a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+---
+##### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
 
