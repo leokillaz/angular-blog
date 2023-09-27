@@ -1,5 +1,3 @@
-![Potencia-tech](./src/assets/img/preview.png "Potência Tech")
-
 # AngularBlog
 
 ---
